@@ -2,12 +2,20 @@
 # 🍕 Pizza Sales Dashboard – SQL & Excel Project
 
 This project analyzes pizza sales data using SQL and visualizes key business metrics in an Excel dashboard. It covers various KPIs, order trends, category performance, and best/worst sellers.
+##  Project Execution Flow
 
+1. **SQL Query Execution (SQL Server):**
+   - All KPIs and trend insights were generated using SQL queries on Microsoft SQL Server.
+   - The results were captured using screenshots and exported as tables.
+
+2. **Export and Dashboard Building (Excel):**
+   - Cleaned and structured results were uploaded to Excel.
+   - Used pivot charts, graphs, slicers, and formatting to create an interactive dashboard.
+   - Final visuals were verified against original SQL query outputs for accuracy.
 
 ##  Project Workflow
 
 The analysis is structured in four key phases:
-
 1. **Data Cleaning**  
    - Checked for missing values  
    - Removed NULLs and duplicates  
